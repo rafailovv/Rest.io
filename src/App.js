@@ -1,12 +1,16 @@
 import React from "react";
+import "./css/normalize.css";
 import Header from "./components/Header";
-import "./css/normalize.css"
+import MainPage from "./components/MainPage";
 
 class App extends React.Component {
 	render() {
-		return(
-      <Header />
-    );
+		return (
+			<>
+				<Header />
+				<MainPage />
+			</>
+		);
 	}
 }
 
