@@ -16,7 +16,7 @@ h2 {
 .preview {
     width: 100%;
     height: 85vh;
-    background: #000 url(/src/assets/img/preview.png) no-repeat center center fixed;
+    background: #000 url(/src/assets/img/preview.png) no-repeat 70% center fixed;
     background-size: cover;
     border-bottom: 10px solid #222;
     display: flex;

@@ -40,7 +40,7 @@ class MainPage extends React.Component {
 						<div className="people-grid-row">
 							<img className="people-grid-item" src="/img/family.jpg" alt="Семья"/>
 							<div className="people-grid-item">
-								<p>Влюбленные пары могут прогуляться по чудесному вечернему проспекту Мира или пройтись по "мосту Сердец" под журчание реки Терек. Романтика да и только!</p>
+								<p>Влюбленные пары могут прогуляться по вечернему проспекту Мира или "мосту Сердец". Романтика да и только!</p>
 							</div>
 							<img className="people-grid-item" src="/img/oldmans.jpg" alt="Пожилые люди"/>
 						</div>

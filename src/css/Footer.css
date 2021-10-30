@@ -1,0 +1,32 @@
+.footer {
+    width: 100%;
+    height: auto;
+    color: #fff;
+    background-color: #000;
+}
+
+.footer-menu {
+    width: 40%;
+    margin: 0 0 0 12%;
+    padding: 2% 0 1% 0;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-menu > li {
+    color: #868686;
+    margin: 7px 0;
+}
+
+.footer-menu-item-link {
+    color: #868686;
+    font-size: 1rem;
+    font-weight: 300;
+    text-decoration: none;
+    transition: all ease 0.2s;
+}
+
+.footer-menu-item-link:hover {
+    color: #4b4b4b;
+}

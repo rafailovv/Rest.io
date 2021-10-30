@@ -1,0 +1,196 @@
+@media (max-width: 1400px) {
+    .header-menu {
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 1300px) {
+    .people-grid-item > p {
+        font-size: 1.4rem;
+    }
+
+    .swiper {
+        width: 95%;
+    }
+
+    .swiper-slide > img {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1050px) {
+    .preview, .rest {
+        height: 70vh;
+    }
+
+    .preview-info > h1 {
+        font-size: 3rem;
+    }
+
+    .preview-info > h3 {
+        font-size: 1.75rem;
+    }
+
+    h2 {
+        font-size: 2.25rem;
+    }
+    
+    .card-subtitle, .people-grid-item > p {
+        font-size: 1.1rem;
+    }
+
+    .fas {
+        font-size: 5rem;
+    }
+
+    .card-title {
+        font-size: 1.75rem;
+    }
+
+    .rest > h4 {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 900px) {
+    /* Make burger-menu */
+}
+
+@media (max-width: 840px) {
+    .preview-info > h1 {
+        font-size: 2.5rem;
+    }
+
+    .preview-info > h3 {
+        font-size: 1.25rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    .advantages-cards {
+        width: 95%;
+    }
+
+    .card-subtitle, .people-grid-item > p {
+        font-size: 0.9rem;
+    }
+
+    .fas {
+        font-size: 3rem;
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+    }
+
+    .rest > h4 {
+        width: 80%;
+        font-size: 1.25rem;
+    }
+
+    .rest > button {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 710px) {
+    .card-subtitle {
+        display: none;
+    }
+
+    .rest > h4 {
+        padding: 0 2% 4% 2%;
+    }
+
+    .footer-menu {
+        width: 70%;
+    }
+}
+
+@media (max-width: 600px) {
+    h2 {
+        padding: 4% 2%;
+    }
+
+    .people-grid-item > p{
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .people-grid-item {
+        height: 100%;
+    }
+    
+    .people-grid-item > p {
+        font-size: 0.55rem;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .rest > button {
+        width: 300px;
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .preview, .rest {
+        height: 40vh;
+    }
+
+    .preview-info > h1 {
+        font-size: 1.75rem;
+    }
+
+    .preview-info > h3 {
+        font-size: 1rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    .advantages-cards {
+        width: 95%;
+    }
+
+    .card-subtitle {
+        font-size: 0.75rem;
+    }
+
+    .people-grid-item > p {
+        font-size: 0.42rem;
+    }
+
+    .fas {
+        font-size: 3rem;
+    }
+
+    .card-title {
+        font-size: 0.9rem;
+    }
+
+    .rest > h4 {
+        width: 80%;
+        font-size: 1rem;
+    }
+
+    .rest > button {
+        font-size: 1.5rem;
+    }
+
+    .footer-menu {
+        width: 80%;
+        margin: 0 0 0 2%;
+    }
+}
